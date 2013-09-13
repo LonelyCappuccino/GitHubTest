@@ -211,6 +211,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Lonely Cappuccino";
 				TargetAttributes = {
+					82CE8B7E17E338E400BABAA5 = {
+						DevelopmentTeam = 7E24WZT4N3;
+					};
 					82CE8BA617E338E400BABAA5 = {
 						TestTargetID = 82CE8B7E17E338E400BABAA5;
 					};
@@ -392,6 +395,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GitHubTest/GitHubTest-Prefix.pch";
 				INFOPLIST_FILE = "GitHubTest/GitHubTest-Info.plist";
@@ -406,6 +410,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GitHubTest/GitHubTest-Prefix.pch";
 				INFOPLIST_FILE = "GitHubTest/GitHubTest-Info.plist";
@@ -476,6 +481,7 @@
 				82CE8BBA17E338E400BABAA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82CE8BBB17E338E400BABAA5 /* Build configuration list for PBXNativeTarget "GitHubTestTests" */ = {
 			isa = XCConfigurationList;
@@ -484,6 +490,7 @@
 				82CE8BBD17E338E400BABAA5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

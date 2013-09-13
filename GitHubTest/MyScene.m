@@ -16,7 +16,7 @@
         
         self.backgroundColor = [SKColor colorWithRed:0.15 green:0.15 blue:0.3 alpha:1.0];
         
-        SKLabelNode *myLabel = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
+        SKLabelNode *myLabel = [SKLabelNode labelNodeWithFontNamed:@"Arial"];
         
         myLabel.text = @"GitHub Test! HEHE";
         myLabel.fontSize = 30;
